@@ -1,5 +1,5 @@
 # slovak-cities-coordinates
-A complete list of the coordinates of Slovak towns and cities in various formats
+A complete list of the coordinates of Slovak towns and cities in various formats. Coordinates system (CRS): EPSG:4326, WGS 84.
 
 #### Available formats
 
@@ -15,7 +15,7 @@ A complete list of the coordinates of Slovak towns and cities in various formats
 
 
 # slovak-cities-coordinates
-Kompletný zoznam súradníc slovenských miest a obcí v rôznych formátoch
+Kompletný zoznam súradníc slovenských miest a obcí v rôznych formátoch. Súradnicový systém (CRS): EPSG:4326, WGS 84.
 
 #### Dostupné formáty
 
