@@ -4,6 +4,7 @@ A complete list of the coordinates of Slovak towns and cities in various formats
 #### Available formats
 
 - GeoJSON
+- JSON
 - SHP
 - SQL
 - GML
@@ -19,6 +20,7 @@ Kompletný zoznam súradníc slovenských miest a obcí v rôznych formátoch
 #### Dostupné formáty
 
 - GeoJSON
+- JSON
 - SHP
 - SQL
 - GML
