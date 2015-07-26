@@ -9,7 +9,8 @@ A complete list of the coordinates of Slovak towns and cities in various formats
 - SQL
 - GML
 - GPX
-- KML
+- KML 
+- CSV
 - TXT
 - XLS
 
@@ -26,6 +27,7 @@ Kompletný zoznam súradníc slovenských miest a obcí v rôznych formátoch. S
 - GML
 - GPX
 - KML
+- CSV
 - TXT
 - XLS
 
